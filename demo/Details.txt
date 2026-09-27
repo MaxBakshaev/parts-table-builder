@@ -1,0 +1,61 @@
+[RU]
+1. Деталь: Кронштейн крепежный
+   - Количество: 4
+   - Группа материала: Алюминий
+   - Марка материала: 6061-T6
+   - Термообработка: Не требуется
+   - Хим-терм. покрытие: Анодирование, натуральное
+   - Квалитет точности: IT8; it8; ±H8
+   - Дополнительная информация: Острые кромки притупить.
+   Отверстия под резьбу M6 выполнить после анодирования.
+
+[EN]
+1. Part: Mounting Bracket
+   - Quantity: 4
+   - Material Group: Aluminum
+   - Material Grade: 6061-T6
+   - Heat Treatment: Not required
+   - Chemical-thermal Coating: Anodized, natural
+   - Precision Grade: IT8; it8; ±H8
+   - Additional Information: Deburr sharp edges.
+   Tap M6 holes after anodizing.
+
+[RU]
+2. Деталь: Втулка распорная
+   - Количество: 10
+   - Группа материала: Сталь
+   - Марка материала: Сталь 45
+   - Тип стали: Конструкционная
+   - Термообработка: Закалка + отпуск
+   - Твердость (HRC): 40-45
+   - Квалитет точности: IT7; it7; ±H7
+   - Дополнительная информация: Проверить соосность отверстий.
+
+[EN]
+2. Part: Spacer Sleeve
+   - Quantity: 10
+   - Material Group: Steel
+   - Material Grade: Steel 45
+   - Steel Type: Structural
+   - Heat Treatment: Quenching + tempering
+   - Hardness (HRC): 40-45
+   - Precision Grade: IT7; it7; ±H7
+   - Additional Information: Check hole concentricity.
+
+[RU]
+3. Деталь: Шайба уплотнительная
+   - Количество: 20
+   - Группа материала: Полимер
+   - Марка материала: PTFE
+   - Модификация полимера: Стеклонаполненный 15%
+   - Квалитет точности: IT9; it9; ±H9
+   - Дополнительная информация: Упаковать по 20 шт в отдельный пакет.
+
+[EN]
+3. Part: Sealing Washer
+   - Quantity: 20
+   - Material Group: Polymer
+   - Material Grade: PTFE
+   - Polymer Modification: Glass-filled 15%
+   - Precision Grade: IT9; it9; ±H9
+   - Additional Information: Pack 20 pcs per bag.

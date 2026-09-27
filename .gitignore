@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime workspace of the service
+work/
+*.xlsx
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
